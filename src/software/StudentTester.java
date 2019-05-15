@@ -15,7 +15,7 @@ public class StudentTester {
              std1.setName("fvfjd");
              System.out.println(std1.getName());
              Student std2 = new Student(" nnkkkn mehak",12,13);
-             Student std3 = new Student("ehak",2,3);
+             Student std3 = new Student(" juhjnnm ehak",2,3);
              Student[] list = new Student[3];
              list[0]= std1;
              list[1]= std2;
