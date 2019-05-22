@@ -2,12 +2,14 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+
  */
 package software;
 
 /**
  *
- * @author gkauj
+ * @author gkauj gurleen Kaur
+  22nd May 2019
  */
 class Student {
     private String name;
