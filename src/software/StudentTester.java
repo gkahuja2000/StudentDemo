@@ -25,8 +25,7 @@ public class StudentTester {
              System.out.println(list[i].getName());
              System.out.println(list[i].getAge());
              System.out.println(list[i].getId());
-                
-             }
+                   }
              System.out.println("fvbgfgsf");
      }
 }
