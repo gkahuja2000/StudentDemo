@@ -11,6 +11,7 @@ package software;
  */
 public class StudentTester {
      public static void main(String args[]){
+             int x;
              Student std1 = new Student();
              std1.setName("fvfjd");
              System.out.println(std1.getName());
@@ -24,8 +25,9 @@ public class StudentTester {
              System.out.println(list[i].getName());
              System.out.println(list[i].getAge());
              System.out.println(list[i].getId());
+                
              }
-             
+             System.out.println("fvbgfgsf");
      }
 }
        
