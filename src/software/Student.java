@@ -12,7 +12,16 @@ package software;
 class Student {
     private String name;
     private int age;
-    private int id;
+    private int Maxjhnm;
+
+    public int getMaxjhnm() {
+        return Maxjhnm;
+    }
+
+    public void setMaxjhnm(int Maxjhnm) {
+        this.Maxjhnm = Maxjhnm;
+    }
+    
     public Student(){
     
     }
@@ -44,7 +53,7 @@ class Student {
     public void setId(int id) {
         this.id = id;
     }
-    public String print(){
-      return getName()+"Name : "+" Age :"+ getAge() + "ID :"+getId());
+    public String toString(){
+      return "Name : "+ getName()+" Age : "+ getAge() + " ID :"+getId();
 }
 }
